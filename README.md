@@ -29,11 +29,14 @@ I’m a beginner in cybersecurity who is passionate about learning both defensiv
 - Eventually contribute to blue-team / purple-team projects in the UAE cybersecurity community  
 
 I believe in **ethical hacking**, **continuous documentation**, and **strong defense-in-depth**.  
-Everything I do is in controlled lab environments — never on unauthorized systems.
+Everything I do is in controlled lab environments, never on unauthorized systems.
 
 Feel free to check my:
-- <a href="https://www.linkedin.com/in/mohammed-rashad-abdallah-428702336/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-- [Credly Badges](https://www.credly.com/users/mohammed-rashad-abdallah/badges#credly)  
+
+<a href="https://www.linkedin.com/in/mohammed-rashad-abdallah-428702336/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.credly.com/users/mohammed-rashad-abdallah/badges#credly">
+  <img src="https://img.shields.io/badge/-Credly%20Badges-orange?&style=for-the-badge&logo=credly&logoColor=white" />
+</a> 
 
 Open to connect, feedback, or collaboration! 
 
@@ -48,9 +51,8 @@ As a beginner building toward junior SOC analyst roles in Ajman, here are the sk
 | Basic IT & Networking Fundamentals         | Cisco Networking Academy – Introduction to Cybersecurity      | Completed – My first certificate!                    |
 | Wireless Security Concepts & Defense       | Cisco Junior Cybersecurity Analyst – Network Defence module   | In progress – Learning protection against wireless attacks |
 | Wi-Fi Deauthentication Attack Execution    | Udemy Ethical Hacking Course – Deauth section + Wireshark     | Completed – Captured & analyzed on test network      |
-| WPA/WPA2 Handshake Capture & Dictionary Crack | Kali Aircrack-ng lab (4-way handshake + rockyou.txt)         | Successfully done on my own router – GitHub write-up |
-| Packet Capture & Analysis (EAPOL / 802.11) | Wireshark analysis of captured 4-way handshake                | Done – Verified 4 messages, screenshots in repo      |
-| Ethical Hacking Lab Documentation          | Personal GitHub portfolio (cyber-journey-2026 repo)           | Ongoing – Daily/weekly lab write-ups                 |
+| WPA/WPA2 Handshake Capture & Dictionary Crack | Kali Aircrack-ng lab (4-way handshake + rockyou.txt)         | Successfully done on my own router |
+| Packet Capture & Analysis (EAPOL / 802.11) | Wireshark analysis of captured 4-way handshake                | Done – Verified 4 messages, screenshots in repo      |                 |
 | Basic Recon & OSINT Awareness              | Intro to tools (HIBP, VirusTotal, Shodan, Censys)             | Learning – Created Anki flashcards                   |
 | Home Lab Setup & Kali Usage                | Kali Linux VM + wireless adapter in monitor mode              | Active – Used for all wireless labs so far           |
 | Future: SIEM & Log Analysis                | Planned: TryHackMe SOC Level 1 + Wazuh/Elastic home SIEM      | Next phase after Security+                           |
@@ -63,9 +65,9 @@ I'm still a beginner, so this list focuses on what I've already used in labs (Ka
 
 ### 1. Operating System & Lab Environment
 
-| Tool              | Description (Simple)                              | Why I Use It                                 | Official Link / How to Get It                     |
+| Tool              | Description                              | Why I Use It                                 | Official Link                |
 |-------------------|---------------------------------------------------|----------------------------------------------|---------------------------------------------------|
-| Kali Linux        | Security-focused Linux for hacking & testing labs | My main machine for wireless attacks & analysis | https://www.kali.org/get-kali/                    |
+| Kali Linux        | Security-focused Linux for hacking & testing labs | My main machine for labs & analysis | https://www.kali.org/get-kali/                    |
 | VirtualBox        | Free software to run Kali safely in a virtual machine | Keeps my laptop clean and safe               | https://www.virtualbox.org/                       |
 
 ### 2. Wireless Security & Packet Capture (Aircrack-ng Suite)
@@ -86,7 +88,7 @@ I'm still a beginner, so this list focuses on what I've already used in labs (Ka
 
 ### 4. Recon & OSINT Tools (From Intro to Cybersecurity)
 
-| Tool              | What It Does (Simple)                             | My Status                                    | Official Link                                     |
+| Tool              | What It Does                            | My Status                                    | Official Link                                     |
 |-------------------|---------------------------------------------------|----------------------------------------------|---------------------------------------------------|
 | Have I Been Pwned | Checks if your email was leaked in breaches       | Checked my email safely + Anki cards         | https://haveibeenpwned.com/                       |
 | VirusTotal        | Scans files/URLs with 70+ antivirus engines       | Learning to check suspicious files           | https://www.virustotal.com/gui/home/upload        |
