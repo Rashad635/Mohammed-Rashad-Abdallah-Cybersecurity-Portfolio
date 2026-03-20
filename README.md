@@ -163,5 +163,5 @@ Full verification and details:
 These are the foundations I'm building on as I prepare for CompTIA Security+ and more advanced certifications.
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- Lab
+- Project
