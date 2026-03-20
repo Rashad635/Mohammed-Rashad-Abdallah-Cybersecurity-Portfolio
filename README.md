@@ -40,23 +40,41 @@ Feel free to check my:
 
 Open to connect, feedback, or collaboration! 
 
-## Skills
 
-## Current Skills & Hands-On Projects (March 2026)
+## Current Skills and Hands-On Projects (March 2026)
 
-As a beginner building toward junior SOC analyst roles in Ajman, here are the skills I've developed so far through courses and personal labs:
+I am building toward a junior SOC analyst role through structured courses and hands-on labs.  
+The table below shows what I have completed, what I am actively working on, and what I plan to learn next.
 
-| Skill                                      | Associated Project / Lab                                      | Status / Notes (March 2026)                          |
-|--------------------------------------------|---------------------------------------------------------------|------------------------------------------------------|
-| Basic IT & Networking Fundamentals         | Cisco Networking Academy – Introduction to Cybersecurity      | Completed – My first certificate!                    |
-| Wireless Security Concepts & Defense       | Cisco Junior Cybersecurity Analyst – Network Defence module   | In progress – Learning protection against wireless attacks |
-| Wi-Fi Deauthentication Attack Execution    | Udemy Ethical Hacking Course – Deauth section + Wireshark     | Completed – Captured & analyzed on test network      |
-| WPA/WPA2 Handshake Capture & Dictionary Crack | Kali Aircrack-ng lab (4-way handshake + rockyou.txt)         | Successfully done on my own router |
-| Packet Capture & Analysis (EAPOL / 802.11) | Wireshark analysis of captured 4-way handshake                | Done – Verified 4 messages, screenshots in repo      |                 |
-| Basic Recon & OSINT Awareness              | Intro to tools (HIBP, VirusTotal, Shodan, Censys)             | Learning – Created Anki flashcards                   |
-| Home Lab Setup & Kali Usage                | Kali Linux VM + wireless adapter in monitor mode              | Active – Used for all wireless labs so far           |
-| Future: SIEM & Log Analysis                | Planned: TryHackMe SOC Level 1 + Wazuh/Elastic home SIEM      | Next phase after Security+                           |
-| Future: Incident Response Basics           | Planned: TryHackMe SOC Level 1 practical exercises            | Starting soon                                        |
+
+
+### Core skills and completed labs
+
+| Skill                                      | Project or Lab                                              | Status (March 2026)                                  |
+|-------------------------------------------|-------------------------------------------------------------|------------------------------------------------------|
+| IT and Networking Fundamentals            | Cisco Networking Academy Introduction to Cybersecurity      | Completed. First certification achieved              |
+| Wi-Fi Deauthentication Attack             | Udemy ethical hacking lab with Wireshark validation         | Completed on personal test network                   |
+| WPA and WPA2 Handshake Capture and Crack  | Aircrack-ng lab using 4-way handshake and rockyou.txt       | Completed successfully on personal router            |
+| Packet Capture and Analysis               | Wireshark analysis of EAPOL 4-way handshake                 | Completed. Verified all handshake messages           |
+| Home Lab Setup and Kali Linux Usage       | Kali Linux VM with monitor mode wireless adapter            | Active. Used for all wireless testing labs           |
+
+
+
+### Skills in progress
+
+| Skill                                | Project or Lab                                            | Status (March 2026)                                  |
+|-------------------------------------|-----------------------------------------------------------|------------------------------------------------------|
+| Wireless Security and Defense       | Cisco Junior Cybersecurity Analyst Network Defence module | In progress. Focus on detection and mitigation        |
+| Reconnaissance and OSINT Basics     | Tools such as Have I Been Pwned, VirusTotal, Shodan, Censys | In progress. Reinforced with Anki flashcards          |
+
+
+
+### Planned next steps
+
+| Skill                          | Project or Lab                                      | Status (March 2026)              |
+|--------------------------------|-----------------------------------------------------|----------------------------------|
+| SIEM and Log Analysis         | TryHackMe SOC Level 1 and Wazuh or Elastic SIEM lab | Planned next phase               |
+| Incident Response Fundamentals | TryHackMe SOC Level 1 practical exercises           | Starting soon                    |
 
 
 # Tools I Use in My Cybersecurity Journey  
@@ -119,17 +137,7 @@ This list reflects hands-on lab experience, including wireless security testing,
 
 
 
-## 6. Zphisher phishing simulation lab  
-
-| Category         | Details                                              | Notes (March 2026)                                  |
-|------------------|------------------------------------------------------|-----------------------------------------------------|
-| Tool Name        | Zphisher                                             | Version 2.3.5                                       |
-| Purpose          | Generates phishing pages for simulation              | Used to understand credential harvesting            |
-| Key Lesson       | Shows how easily phishing pages can capture data     | Reinforces need for 2FA and URL verification       |
-
-
-
-## 7. Tools I Am Starting to Use  
+## 6. Tools I Am Starting to Use  
 
 | Tool      | What It Is                             | My Current or Planned Use                          | Link                                             |
 | --------- | -------------------------------------- | -------------------------------------------------- | ------------------------------------------------ |
