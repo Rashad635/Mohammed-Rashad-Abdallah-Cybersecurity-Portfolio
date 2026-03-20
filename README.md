@@ -160,10 +160,10 @@ All my Cisco Networking Academy badges and other achievements are verified on Cr
   - Networking Devices and Initial Configuration  
 
 Full verification and details:  
-🔗 [View my complete Credly profile →](https://www.credly.com/users/mohammed-rashad-abdallah/badges#credly)
+ <a href="https://www.credly.com/users/mohammed-rashad-abdallah/badges#credly">View my complete Credly profile</a>
 
 These are the foundations I'm building on as I prepare for CompTIA Security+ and more advanced certifications.
 
 ## Projects
-- Lab
+-  <a href="https://github.com/Rashad635/WiFi-Attack-Lab/blob/main/README.md">WiFi Attack Lab</a>
 - Project
