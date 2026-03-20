@@ -136,20 +136,18 @@ I'm still a beginner, so this list focuses on what I've already used in labs (Ka
 
 ## Certifications & Badges
 
-All my Cisco Networking Academy badges and other achievements are verified on Credly:
-
-<div style="margin: 20px 0;">
-    <a href="https://www.credly.com/users/mohammed-rashad-abdallah/badges#credly" target="_blank">
-      <img src="https://img.shields.io/badge/View_All_My_Badges_on_Credly-007ACC?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Profile" />
-    </a>
-</div>
-
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin: 15px 0;">
     <!-- Diploma -->
     <a href="https://www.credly.com/users/mohammed-rashad-abdallah/badges#credly" target="_blank">
         <img src="https://img.shields.io/badge/-Diploma_in_Computer_Science-4CAF50?style=for-the-badge&logo=book&logoColor=white" />
     </a>
+<a href="https://www.credly.com/users/mohammed-rashad-abdallah/badges#credly" target="_blank">
+    <img src="https://img.shields.io/badge/View_All_My_Badges_on_Credly-007ACC?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Profile" />
+    </a>
+
 </div>
+
+All my Cisco Networking Academy badges and other achievements are verified on Credly:
 
 **My Current Achievements (March 2026):**
 - **Diploma in Computer Science** – New Life College, Ghana  
