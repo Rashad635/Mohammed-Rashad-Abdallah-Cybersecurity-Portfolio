@@ -110,7 +110,6 @@ I'm still a beginner, so this list focuses on what I've already used in labs (Ka
 | Wazuh      | Free open-source SIEM for log monitoring        | Planned next – Home SIEM lab after Security+          | https://wazuh.com/            |
 
 ### Network
-
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Aircrack--ng-000000?&style=for-the-badge&logo=linux&logoColor=white" />
@@ -119,26 +118,49 @@ I'm still a beginner, so this list focuses on what I've already used in labs (Ka
 
 ### Endpoint
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <img src="https://img.shields.io/badge/-VirtualBox-183A61?&style=for-the-badge&logo=virtualbox&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Kali_Linux-557C94?&style=for-the-badge&logo=kalilinux&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Windows_Target_VM-0078D6?&style=for-the-badge&logo=windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/-TryHackMe_Endpoint_Labs-000000?&style=for-the-badge&logo=tryhackme&logoColor=#00FF9F" />
 </div>
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wazuh-00A4EF?&style=for-the-badge&logo=wazuh&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-TryHackMe_SOC_Level_1-000000?&style=for-the-badge&logo=tryhackme&logoColor=#00FF9F" />
 </div>
 
-## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+## Certifications & Badges
+
+All my Cisco Networking Academy badges and other achievements are verified on Credly:
+
+<div style="margin: 20px 0;">
+    <a href="https://www.credly.com/users/mohammed-rashad-abdallah/badges#credly" target="_blank">
+        <img src="https://img.shields.io/badge/View_All_My_Badges_on_Credly-007ACC?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Profile" />
+    </a>
 </div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin: 15px 0;">
+    <!-- Diploma -->
+    <a href="https://www.credly.com/users/mohammed-rashad-abdallah/badges#credly" target="_blank">
+        <img src="https://img.shields.io/badge/-Diploma_in_Computer_Science-4CAF50?style=for-the-badge&logo=book&logoColor=white" />
+    </a>
+</div>
+
+**My Current Achievements (March 2026):**
+- **Diploma in Computer Science** – New Life College, Ghana  
+- **Cisco Networking Academy Badges** (all completed & verified on Credly):  
+  - Introduction to Cybersecurity  
+  - Endpoint Security  
+  - Networking Basics  
+  - Networking Devices and Initial Configuration  
+
+Full verification and details:  
+🔗 [View my complete Credly profile →](https://www.credly.com/users/mohammed-rashad-abdallah/badges#credly)
+
+These are the foundations I'm building on as I prepare for CompTIA Security+ and more advanced certifications.
 
 ## Projects
 - Detection Lab
