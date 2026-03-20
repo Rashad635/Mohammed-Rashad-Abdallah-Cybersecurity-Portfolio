@@ -58,58 +58,83 @@ As a beginner building toward junior SOC analyst roles in Ajman, here are the sk
 | Future: SIEM & Log Analysis                | Planned: TryHackMe SOC Level 1 + Wazuh/Elastic home SIEM      | Next phase after Security+                           |
 | Future: Incident Response Basics           | Planned: TryHackMe SOC Level 1 practical exercises            | Starting soon                                        |
 
-## Tools I Use in My Cybersecurity Journey
 
-Below are the main tools I've been working with so far (March 2026).  
-I'm still a beginner, so this list focuses on what I've already used in labs (Kali wireless tools, Wireshark, etc.) and the basic recon tools from my Intro to Cybersecurity course.
+# Tools I Use in My Cybersecurity Journey  
 
-### 1. Operating System & Lab Environment
+Below are the main tools I have been working with as of March 2026.  
+This list reflects hands-on lab experience, including wireless security testing, packet analysis, phishing simulation, and basic reconnaissance from foundational cybersecurity training.
 
-| Tool              | Description                              | Why I Use It                                 | Official Link                |
-|-------------------|---------------------------------------------------|----------------------------------------------|---------------------------------------------------|
-| Kali Linux        | Security-focused Linux for hacking & testing labs | My main machine for labs & analysis | https://www.kali.org/get-kali/                    |
-| VirtualBox        | Free software to run Kali safely in a virtual machine | Keeps my laptop clean and safe               | https://www.virtualbox.org/                       |
 
-### 2. Wireless Security & Packet Capture (Aircrack-ng Suite)
 
-| Tool              | What It Does                                      | My Current Use                               | Link / Command                                    |
-|-------------------|---------------------------------------------------|----------------------------------------------|---------------------------------------------------|
-| airmon-ng         | Enables monitor mode on Wi-Fi card                | Put card in monitor mode before scanning     | Built-in Kali: `sudo airmon-ng start wlan0`       |
-| airodump-ng       | Scans Wi-Fi networks & captures packets           | Find APs, clients, and capture handshakes    | Built-in: `sudo airodump-ng wlan0`                |
-| aireplay-ng       | Sends deauth packets or other injections          | Force clients to reconnect for handshake     | Built-in: `sudo aireplay-ng ...`                  |
-| aircrack-ng       | Cracks WPA/WPA2 passwords from captured handshake | Dictionary attack with rockyou.txt           | Built-in: `aircrack-ng -w rockyou.txt ...`        |
-| Wireshark         | Captures and views network packets in detail      | Analyzed EAPOL 4-way handshake messages      | https://www.wireshark.org/download.html           |
+## 1. Operating System and Lab Environment  
 
-### 3. Wordlists for Cracking
+| Tool        | Description                                             | Why I Use It                                   | Official Link                              |
+|-------------|---------------------------------------------------------|-----------------------------------------------|--------------------------------------------|
+| Kali Linux  | Security-focused Linux distribution for testing and labs | Primary environment for all cybersecurity work | https://www.kali.org/get-kali/              |
+| VirtualBox  | Virtualization software for running isolated systems     | Keeps host system clean and separated         | https://www.virtualbox.org/                 |
 
-| Tool/File         | Description                                       | My Use                                       | Location / Link                                   |
-|-------------------|---------------------------------------------------|----------------------------------------------|---------------------------------------------------|
-| rockyou.txt       | Popular password wordlist (~14 million entries)   | Used to crack weak test passwords            | Kali default: `/usr/share/wordlists/rockyou.txt`  |
 
-### 4. Recon & OSINT Tools (From Intro to Cybersecurity)
 
-| Tool              | What It Does                            | My Status                                    | Official Link                                     |
-|-------------------|---------------------------------------------------|----------------------------------------------|---------------------------------------------------|
-| Have I Been Pwned | Checks if your email was leaked in breaches       | Checked my email safely + Anki cards         | https://haveibeenpwned.com/                       |
-| VirusTotal        | Scans files/URLs with 70+ antivirus engines       | Learning to check suspicious files           | https://www.virustotal.com/gui/home/upload        |
-| Shodan            | Search engine for internet-connected devices      | Learning basics + Anki cards                 | https://www.shodan.io/                            |
-| Censys            | Searches hosts, websites, certificates            | Learning basics + Anki cards                 | https://platform.censys.io/                       |
-| Exploit Database  | Collection of exploit codes (use ethically only)  | Understanding red team side                  | https://www.exploit-db.com/                       |
+## 2. Wireless Security and Packet Capture  
 
-### 5. Learning & Documentation Tools
+| Tool        | What It Does                                      | My Current Use                                      | Link or Command                              |
+|-------------|---------------------------------------------------|-----------------------------------------------------|----------------------------------------------|
+| airmon-ng   | Enables monitor mode on wireless interfaces       | Preparing adapter for packet capture                | Built-in: sudo airmon-ng start wlan0         |
+| airodump-ng | Scans networks and captures wireless traffic      | Identifying access points and capturing handshakes  | Built-in: sudo airodump-ng wlan0             |
+| aireplay-ng | Performs packet injection such as deauthentication | Forcing client reconnection to capture handshake    | Built-in: sudo aireplay-ng                   |
+| aircrack-ng | Performs password cracking on captured handshakes | Running dictionary attacks using wordlists          | Built-in: aircrack-ng -w rockyou.txt         |
+| Wireshark   | Packet analysis tool for deep inspection          | Analyzing EAPOL handshake and traffic               | https://www.wireshark.org/download.html      |
+| Mdk4        | Wireless testing tool for stress and simulation   | Testing wireless behavior in controlled lab         | Built-in Kali                                |
 
-| Tool              | What It Is                                        | My Use                                       | Link                                              |
-|-------------------|---------------------------------------------------|----------------------------------------------|---------------------------------------------------|
-| GitHub            | Free place to store write-ups & portfolio         | Daily lab write-ups & screenshots            | https://github.com/ (my repo: cyber-journey-2026) |
-| Notion            | Note-taking & progress tracker                    | Daily checklists & planning                  | https://www.notion.so/                            |
-| Anki              | Flashcard app for memorizing terms & commands     | Practicing tools, ports, reason codes        | https://apps.ankiweb.net/                         |
 
-### 6. Tools I'm Starting to Use Now / Soon
 
-| Tool       | What It Is                                      | My Current / Planned Use                              | Link                          |
-|------------|-------------------------------------------------|-------------------------------------------------------|-------------------------------|
-| TryHackMe  | Online platform with guided cybersecurity labs  | Already started – Beginning with Pre Security / SOC Level 1 paths for blue-team skills | https://tryhackme.com/        |
-| Wazuh      | Free open-source SIEM for log monitoring        | Planned next – Home SIEM lab after Security+          | https://wazuh.com/            |
+## 3. Wordlists for Cracking  
+
+| Tool or File | Description                                   | My Use                                | Location or Link                |
+|--------------|-----------------------------------------------|--------------------------------------|---------------------------------|
+| rockyou.txt  | Common password list with millions of entries | Testing weak passwords in lab setups | /usr/share/wordlists/rockyou.txt |
+
+
+
+## 4. Recon and OSINT Tools  
+
+| Tool              | What It Does                                   | My Status                            | Official Link                              |
+|-------------------|-----------------------------------------------|--------------------------------------|--------------------------------------------|
+| Have I Been Pwned | Checks if emails appear in known breaches     | Used for awareness and practice      | https://haveibeenpwned.com/                |
+| VirusTotal        | Scans files and URLs with multiple engines    | Learning file and link analysis      | https://www.virustotal.com/gui/home/upload |
+| Shodan            | Search engine for internet-connected devices  | Learning basic queries               | https://www.shodan.io/                     |
+| Censys            | Indexes hosts, services, and certificates     | Exploring host and certificate data  | https://platform.censys.io/                |
+| Exploit Database  | Repository of public exploits                 | Studying known vulnerabilities       | https://www.exploit-db.com/                |
+
+
+
+## 5. Learning and Documentation Tools  
+
+| Tool      | What It Is                                   | My Use                                                     | Link                                 |
+|-----------|----------------------------------------------|------------------------------------------------------------|--------------------------------------|
+| GitHub    | Platform for code and documentation          | Publishing labs and maintaining portfolio                  | https://github.com/                  |
+| Notion    | Note-taking and organization tool            | Tracking progress and documenting learning                 | https://www.notion.so/               |
+| Anki      | Flashcard application for memory retention   | Practicing commands, ports, and concepts                   | https://apps.ankiweb.net/            |
+| Zphisher  | Phishing simulation tool                     | Simulating credential capture in a controlled local lab    | https://github.com/htr-tech/zphisher |
+
+
+
+## 6. Zphisher phishing simulation lab  
+
+| Category         | Details                                              | Notes (March 2026)                                  |
+|------------------|------------------------------------------------------|-----------------------------------------------------|
+| Tool Name        | Zphisher                                             | Version 2.3.5                                       |
+| Purpose          | Generates phishing pages for simulation              | Used to understand credential harvesting            |
+| Key Lesson       | Shows how easily phishing pages can capture data     | Reinforces need for 2FA and URL verification       |
+
+
+
+## 7. Tools I Am Starting to Use  
+
+| Tool      | What It Is                             | My Current or Planned Use                          | Link                                             |
+| --------- | -------------------------------------- | -------------------------------------------------- | ------------------------------------------------ |
+| TryHackMe | Online cybersecurity training platform | Working through Pre Security and SOC Level 1 paths | [https://tryhackme.com/](https://tryhackme.com/) |
+| Wazuh     | Open-source SIEM platform              | Planning home lab for log monitoring and detection | [https://wazuh.com/](https://wazuh.com/)         |
 
 ### Network
 <div>
@@ -134,18 +159,7 @@ I'm still a beginner, so this list focuses on what I've already used in labs (Ka
     <img src="https://img.shields.io/badge/-TryHackMe_SOC_Level_1-000000?&style=for-the-badge&logo=tryhackme&logoColor=#00FF9F" />
 </div>
 
-## Certifications & Badges
-
-<div style="display: flex; flex-wrap: wrap; gap: 10px; margin: 15px 0;">
-    <!-- Diploma -->
-    <a href="https://www.credly.com/users/mohammed-rashad-abdallah/badges#credly" target="_blank">
-        <img src="https://img.shields.io/badge/-Diploma_in_Computer_Science-4CAF50?style=for-the-badge&logo=book&logoColor=white" />
-    </a>
-<a href="https://www.credly.com/users/mohammed-rashad-abdallah/badges#credly" target="_blank">
-    <img src="https://img.shields.io/badge/View_All_My_Badges_on_Credly-007ACC?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Profile" />
-    </a>
-
-</div>
+### Certifications & Badges
 
 All my Cisco Networking Academy badges and other achievements are verified on Credly:
 
@@ -158,9 +172,17 @@ All my Cisco Networking Academy badges and other achievements are verified on Cr
   - Networking Devices and Initial Configuration  
 
 Full verification and details:  
- <a href="https://www.credly.com/users/mohammed-rashad-abdallah/badges#credly">View my complete Credly profile</a>
+ <div style="display: flex; flex-wrap: wrap; gap: 10px; margin: 15px 0;">
+<a href="https://www.credly.com/users/mohammed-rashad-abdallah/badges#credly" target="_blank">
+    <img src="https://img.shields.io/badge/View_All_My_Badges_on_Credly-007ACC?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Profile" />
+    </a>
+</div>
+
+#
 
 These are the foundations I'm building on as I prepare for CompTIA Security+ and more advanced certifications.
+
+#
 
 ## Projects
 -  <a href="https://github.com/Rashad635/WiFi-Attack-Lab/blob/main/README.md">WiFi Attack Lab</a>
