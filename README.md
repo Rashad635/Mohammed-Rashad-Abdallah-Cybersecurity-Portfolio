@@ -140,7 +140,7 @@ All my Cisco Networking Academy badges and other achievements are verified on Cr
 
 <div style="margin: 20px 0;">
     <a href="https://www.credly.com/users/mohammed-rashad-abdallah/badges#credly" target="_blank">
-        <img src="https://img.shields.io/badge/View_All_My_Badges_on_Credly-007ACC?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Profile" />
+      <img src="https://img.shields.io/badge/View_All_My_Badges_on_Credly-007ACC?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Profile" />
     </a>
 </div>
 
