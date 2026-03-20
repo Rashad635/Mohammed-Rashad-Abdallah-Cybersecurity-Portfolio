@@ -4,7 +4,7 @@
 
 I’m a beginner in cybersecurity who is passionate about learning both defensive (blue team) and offensive (red team) skills to protect systems and understand real-world threats.  
 
-### What I've achieved so far (March 2026)
+## What I've achieved so far (March 2026)
 - **Diploma in Computer Science** – New Life College, Ghana  
 - **Cisco Networking Academy Badges** (verified on [Credly](https://www.credly.com/users/mohammed-rashad-abdallah/badges#credly)):  
   - Introduction to Cybersecurity  
@@ -12,7 +12,7 @@ I’m a beginner in cybersecurity who is passionate about learning both defensiv
   - Networking Basics  
   - Networking Devices and Initial Configuration  
 
-### Current focus & hands-on labs
+## Current focus & hands-on labs
 - Completing **Udemy Full Cybersecurity Course From 0: Ethical Hacking & Defense** (wireless attacks, phishing simulation with Zphisher, etc.)  
 - Actively using **Kali Linux** in VirtualBox for labs:  
   - Wi-Fi deauthentication attacks  
@@ -22,7 +22,7 @@ I’m a beginner in cybersecurity who is passionate about learning both defensiv
 - Just started **TryHackMe** (Pre Security path → SOC Level 1 next)  
 - Building a public portfolio on GitHub with daily/weekly write-ups, screenshots, and Anki flashcards for retention  
 
-### My Goals
+## My Goals
 - Pass **CompTIA Security+** (SY0-701) soon  
 - Set up first home SIEM lab (Wazuh + Elastic)  
 - Gain practical SOC analyst skills (log analysis, incident response, threat detection)  
@@ -77,23 +77,20 @@ The table below shows what I have completed, what I am actively working on, and 
 | Incident Response Fundamentals | TryHackMe SOC Level 1 practical exercises           | Starting soon                    |
 
 
-# Tools I Use in My Cybersecurity Journey  
+## Tools I Use in My Cybersecurity Journey  
 
 Below are the main tools I have been working with as of March 2026.  
 This list reflects hands-on lab experience, including wireless security testing, packet analysis, phishing simulation, and basic reconnaissance from foundational cybersecurity training.
 
 
-
-## 1. Operating System and Lab Environment  
+### 1. Operating System and Lab Environment  
 
 | Tool        | Description                                             | Why I Use It                                   | Official Link                              |
 |-------------|---------------------------------------------------------|-----------------------------------------------|--------------------------------------------|
 | Kali Linux  | Security-focused Linux distribution for testing and labs | Primary environment for all cybersecurity work | https://www.kali.org/get-kali/              |
 | VirtualBox  | Virtualization software for running isolated systems     | Keeps host system clean and separated         | https://www.virtualbox.org/                 |
 
-
-
-## 2. Wireless Security and Packet Capture  
+### 2. Wireless Security and Packet Capture  
 
 | Tool        | What It Does                                      | My Current Use                                      | Link or Command                              |
 |-------------|---------------------------------------------------|-----------------------------------------------------|----------------------------------------------|
@@ -104,17 +101,13 @@ This list reflects hands-on lab experience, including wireless security testing,
 | Wireshark   | Packet analysis tool for deep inspection          | Analyzing EAPOL handshake and traffic               | https://www.wireshark.org/download.html      |
 | Mdk4        | Wireless testing tool for stress and simulation   | Testing wireless behavior in controlled lab         | Built-in Kali                                |
 
-
-
-## 3. Wordlists for Cracking  
+### 3. Wordlists for Cracking  
 
 | Tool or File | Description                                   | My Use                                | Location or Link                |
 |--------------|-----------------------------------------------|--------------------------------------|---------------------------------|
 | rockyou.txt  | Common password list with millions of entries | Testing weak passwords in lab setups | /usr/share/wordlists/rockyou.txt |
 
-
-
-## 4. Recon and OSINT Tools  
+### 4. Recon and OSINT Tools  
 
 | Tool              | What It Does                                   | My Status                            | Official Link                              |
 |-------------------|-----------------------------------------------|--------------------------------------|--------------------------------------------|
@@ -124,9 +117,7 @@ This list reflects hands-on lab experience, including wireless security testing,
 | Censys            | Indexes hosts, services, and certificates     | Exploring host and certificate data  | https://platform.censys.io/                |
 | Exploit Database  | Repository of public exploits                 | Studying known vulnerabilities       | https://www.exploit-db.com/                |
 
-
-
-## 5. Learning and Documentation Tools  
+### 5. Learning and Documentation Tools  
 
 | Tool      | What It Is                                   | My Use                                                     | Link                                 |
 |-----------|----------------------------------------------|------------------------------------------------------------|--------------------------------------|
@@ -137,21 +128,21 @@ This list reflects hands-on lab experience, including wireless security testing,
 
 
 
-## 6. Tools I Am Starting to Use  
+### 6. Tools I Am Starting to Use  
 
 | Tool      | What It Is                             | My Current or Planned Use                          | Link                                             |
 | --------- | -------------------------------------- | -------------------------------------------------- | ------------------------------------------------ |
 | TryHackMe | Online cybersecurity training platform | Working through Pre Security and SOC Level 1 paths | [https://tryhackme.com/](https://tryhackme.com/) |
 | Wazuh     | Open-source SIEM platform              | Planning home lab for log monitoring and detection | [https://wazuh.com/](https://wazuh.com/)         |
 
-### Network
+## Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Aircrack--ng-000000?&style=for-the-badge&logo=linux&logoColor=white" />
     <img src="https://img.shields.io/badge/-TryHackMe-000000?&style=for-the-badge&logo=tryhackme&logoColor=#00FF9F" />
 </div>
 
-### Endpoint
+## Endpoint
 <div>
     <img src="https://img.shields.io/badge/-VirtualBox-183A61?&style=for-the-badge&logo=virtualbox&logoColor=white" />
     <img src="https://img.shields.io/badge/-Kali_Linux-557C94?&style=for-the-badge&logo=kalilinux&logoColor=white" />
@@ -159,7 +150,7 @@ This list reflects hands-on lab experience, including wireless security testing,
     <img src="https://img.shields.io/badge/-TryHackMe_Endpoint_Labs-000000?&style=for-the-badge&logo=tryhackme&logoColor=#00FF9F" />
 </div>
 
-### SIEM
+## SIEM
 <div>
     <img src="https://img.shields.io/badge/-Wazuh-00A4EF?&style=for-the-badge&logo=wazuh&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=elastic&logoColor=white" />
@@ -167,7 +158,7 @@ This list reflects hands-on lab experience, including wireless security testing,
     <img src="https://img.shields.io/badge/-TryHackMe_SOC_Level_1-000000?&style=for-the-badge&logo=tryhackme&logoColor=#00FF9F" />
 </div>
 
-### Certifications & Badges
+## Certifications & Badges
 
 All my Cisco Networking Academy badges and other achievements are verified on Credly:
 
@@ -194,4 +185,3 @@ These are the foundations I'm building on as I prepare for CompTIA Security+ and
 
 ## Projects
 -  <a href="https://github.com/Rashad635/WiFi-Attack-Lab/blob/main/README.md">WiFi Attack Lab</a>
-- Project
