@@ -46,18 +46,16 @@ Open to connect, feedback, or collaboration!
 I am building toward a junior SOC analyst role through structured courses and hands-on labs.  
 The table below shows what I have completed, what I am actively working on, and what I plan to learn next.
 
-
-
 ### Core skills and completed labs
 
-| Skill                                      | Project or Lab                                              | Status (March 2026)                                  |
-|-------------------------------------------|-------------------------------------------------------------|------------------------------------------------------|
-| IT and Networking Fundamentals            | Cisco Networking Academy Introduction to Cybersecurity      | Completed. First certification achieved              |
-| Wi-Fi Deauthentication Attack             | Udemy ethical hacking lab with Wireshark validation         | Completed on personal test network                   |
-| WPA and WPA2 Handshake Capture and Crack  | Aircrack-ng lab using 4-way handshake and rockyou.txt       | Completed successfully on personal router            |
-| Packet Capture and Analysis               | Wireshark analysis of EAPOL 4-way handshake                 | Completed. Verified all handshake messages           |
-| Home Lab Setup and Kali Linux Usage       | Kali Linux VM with monitor mode wireless adapter            | Active. Used for all wireless testing labs           |
-
+| Skill | Project or Lab | Status (March 2026) |
+|------|---------------|---------------------|
+| Home Lab Setup and Kali Linux Usage | Kali Linux VM with monitor mode wireless adapter | Active. Used for all wireless testing labs |
+| IT and Networking Fundamentals | Cisco Networking Academy Introduction to Cybersecurity | Completed. First certification achieved |
+| Wi-Fi Deauthentication Attack | Udemy ethical hacking lab with Wireshark validation | Completed on personal test network |
+| WPA and WPA2 Handshake Capture and Crack | Aircrack-ng lab using 4-way handshake and rockyou.txt | Completed successfully on personal router |
+| Packet Capture and Analysis | Wireshark analysis of EAPOL 4-way handshake | Completed. Verified all handshake messages |
+| Nmap reconnaissance and basic vulnerability discovery lab | Nmap scanning with service version detection and vulnerability lookup using searchsploit | Completed. Performed host discovery, port scanning, service enumeration, version detection, and mapped services to known vulnerabilities |
 
 
 ### Skills in progress
