@@ -185,4 +185,5 @@ These are the foundations I'm building on as I prepare for CompTIA Security+ and
 
 ## Projects
 -  <a href="https://github.com/Rashad635/WiFi-Attack-Lab/blob/main/README.md">WiFi Attack Lab</a>
-Nmap reconnaissance and basic vulnerability discovery lab
+-  <a href="https://github.com/Rashad635/nmap-reconnaissance-and-basic-vulnerability-discovery-lab/tree/main/README.md">Nmap reconnaissance and basic vulnerability discovery lab
+</a>
