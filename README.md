@@ -2,7 +2,9 @@
 
 **Aspiring Cybersecurity Analyst**, UAE
 
-I’m a beginner in cybersecurity who is passionate about learning both defensive (blue team) and offensive (red team) skills to protect systems and understand real-world threats.  
+IT support personnel transitioning into cybersecurity with a focus on understanding how systems are attacked, detected, and secured in real environments. I am building practical skills across defensive and offensive areas through consistent hands on work and structured learning.
+
+My goal is to grow into a SOC analyst role, contribute to strengthening security, improving detection, and supporting resilient systems, and later expand into offensive security.
 
 ## What I've achieved so far (March 2026)
 - **Diploma in Computer Science** – New Life College, Ghana  
