@@ -6,31 +6,35 @@ IT support personnel transitioning into cybersecurity with a focus on understand
 
 My goal is to grow into a SOC analyst role, contribute to strengthening security, improving detection, and supporting resilient systems, and later expand into offensive security.
 
-## What I've achieved so far (March 2026)
-- **Diploma in Computer Science** – New Life College, Ghana  
+## What I've achieved so far
+- **Diploma in Computer Science** – New Life College, Ghana
+- **Full Cybersecurity course From 0. Ethical Hacking & Defense** - Udemy 
 - **Cisco Networking Academy Badges** (verified on [Credly](https://www.credly.com/users/mohammed-rashad-abdallah/badges#credly)):  
   - Introduction to Cybersecurity  
   - Endpoint Security  
   - Networking Basics  
-  - Networking Devices and Initial Configuration  
+  - Networking Devices and Initial Configuration
+  - Network Defense
+  - Cyber Threat Management
+  - Junior Cybersecurity Analyst Career Path Exam
+  
 
 ## Current focus & hands-on labs
-- Completing **Udemy Full Cybersecurity Course From 0: Ethical Hacking & Defense** (wireless attacks, phishing simulation with Zphisher, etc.)  
 - Actively using **Kali Linux** in VirtualBox for labs:  
-  - Wi-Fi deauthentication attacks  
-  - WPA/WPA2 handshake capture & dictionary cracking (Aircrack-ng)  
-  - Phishing page simulation (Zphisher – local testing only)  
-  - Packet capture & analysis with **Wireshark** (EAPOL 4-way handshake)  
-- Just started **TryHackMe** (Pre Security path → SOC Level 1 next)  
-- Building a public portfolio on GitHub with daily/weekly write-ups, screenshots, and Anki flashcards for retention  
+- TryHackMe (Pre Security path → SOC)
+- Cisco Certified Network Associate (CCNA) Course
+- CompTIA Security+ Course
+- MYDFIR Forge (90 days SOC Accelerator Course)
+- Building a public portfolio on GitHub with weekly write-ups, screenshots, and Anki flashcards for retention  
 
 ## My Goals
-- Pass **CompTIA Security+** (SY0-701) soon  
-- Set up first home SIEM lab (Wazuh + Elastic)  
-- Gain practical SOC analyst skills (log analysis, incident response, threat detection)  
-- Eventually contribute to blue-team / purple-team projects in the UAE cybersecurity community  
+- Pass **CompTIA Security+** (SY0-701)
+- Pass Cisco Certified Network Associate (CCNA)
+- Set up first home SIEM lab (Wazuh + Microsoft Sentinel + Splunk)  
+- Gain practical SOC analyst skills (log analysis, incident response & documentation, threat detection)  
+- Eventually contribute to blue-team / purple-team projects in the cybersecurity community  
 
-I believe in **ethical hacking**, **continuous documentation**, and **strong defense-in-depth**.  
+I believe in **SOC**, **continuous documentation**, and **strong defense-in-depth**.  
 Everything I do is in controlled lab environments, never on unauthorized systems.
 
 Feel free to check my:
@@ -43,43 +47,27 @@ Feel free to check my:
 Open to connect, feedback, or collaboration! 
 
 
-## Current Skills and Hands-On Projects (March 2026)
+## Current Skills and Hands-On Projects
 
 I am building toward a junior SOC analyst role through structured courses and hands-on labs.  
 The table below shows what I have completed, what I am actively working on, and what I plan to learn next.
 
 ### Core skills and completed labs
 
-| Skill | Project or Lab | Status (March 2026) |
+| Skill | Project or Lab | Status |
 |------|---------------|---------------------|
-| Home Lab Setup and Kali Linux Usage | Kali Linux VM with monitor mode wireless adapter | Active. Used for all wireless testing labs |
-| IT and Networking Fundamentals | Cisco Networking Academy Introduction to Cybersecurity | Completed. First certification achieved |
-| Wi-Fi Deauthentication Attack | Udemy ethical hacking lab with Wireshark validation | Completed on personal test network |
+| Home Lab Setup and Kali Linux Usage | Kali Linux VM | Active. Use for labs |
+| Wi-Fi Deauthentication Attack | WiFi attack lab | Completed on personal test network |
 | WPA and WPA2 Handshake Capture and Crack | Aircrack-ng lab using 4-way handshake and rockyou.txt | Completed successfully on personal router |
-| Packet Capture and Analysis | Wireshark analysis of EAPOL 4-way handshake | Completed. Verified all handshake messages |
+| Packet Capture and Analysis | Wireshark analysis of EAPOL 4-way handshake | Verified all handshake messages |
 | Nmap reconnaissance and basic vulnerability discovery lab | Nmap scanning with service version detection and vulnerability lookup using searchsploit | Completed. Performed host discovery, port scanning, service enumeration, version detection, and mapped services to known vulnerabilities |
-
-
-### Skills in progress
-
-| Skill                                | Project or Lab                                            | Status (March 2026)                                  |
-|-------------------------------------|-----------------------------------------------------------|------------------------------------------------------|
-| Wireless Security and Defense       | Cisco Junior Cybersecurity Analyst Network Defence module | In progress. Focus on detection and mitigation        |
-| Reconnaissance and OSINT Basics     | Tools such as Have I Been Pwned, VirusTotal, Shodan, Censys | In progress. Reinforced with Anki flashcards          |
-
-
-
-### Planned next steps
-
-| Skill                          | Project or Lab                                      | Status (March 2026)              |
-|--------------------------------|-----------------------------------------------------|----------------------------------|
-| SIEM and Log Analysis         | TryHackMe SOC Level 1 and Wazuh or Elastic SIEM lab | Planned next phase               |
-| Incident Response Fundamentals | TryHackMe SOC Level 1 practical exercises           | Starting soon                    |
+| Bash Scripting | Bash Authentication System Lab | Completed successfully using Nano text editor kali linux |
+| Phishing attack | Phishing attack lab | Completed successfully using zphisher on kali linux |
 
 
 ## Tools I Use in My Cybersecurity Journey  
 
-Below are the main tools I have been working with as of March 2026.  
+Below are the main tools I have been working with as of April 2026.  
 This list reflects hands-on lab experience, including wireless security testing, packet analysis, phishing simulation, and basic reconnaissance from foundational cybersecurity training.
 
 
@@ -124,8 +112,6 @@ This list reflects hands-on lab experience, including wireless security testing,
 | GitHub    | Platform for code and documentation          | Publishing labs and maintaining portfolio                  | https://github.com/                  |
 | Notion    | Note-taking and organization tool            | Tracking progress and documenting learning                 | https://www.notion.so/               |
 | Anki      | Flashcard application for memory retention   | Practicing commands, ports, and concepts                   | https://apps.ankiweb.net/            |
-| Zphisher  | Phishing simulation tool                     | Simulating credential capture in a controlled local lab    | https://github.com/htr-tech/zphisher |
-
 
 
 ### 6. Tools I Am Starting to Use  
@@ -187,3 +173,6 @@ These are the foundations I'm building on as I prepare for CompTIA Security+ and
 -  <a href="https://github.com/Rashad635/WiFi-Attack-Lab/blob/main/README.md">WiFi attack lab</a>
 -  <a href="https://github.com/Rashad635/nmap-reconnaissance-and-basic-vulnerability-discovery-lab/tree/main/README.md">Nmap reconnaissance and basic vulnerability discovery lab</a>
 -  <a href="https://github.com/Rashad635/Phishing-attack-using-Zphisher/blob/main/README.md">Phishing attack lab</a>
+-  <a href="https://github.com/Rashad635/Bash-Authentication-System-Lab/blob/main/README.md">Bash Authentication System Lab</a>
+
+
