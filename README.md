@@ -29,10 +29,10 @@ My goal is to grow into a SOC analyst role, contribute to strengthening security
 
 ## My Goals
 - Pass **CompTIA Security+** (SY0-701)
-- Pass Cisco Certified Network Associate (CCNA)
-- Set up first home SIEM lab (Wazuh + Microsoft Sentinel + Splunk)  
-- Gain practical SOC analyst skills (log analysis, incident response & documentation, threat detection)  
-- Eventually contribute to blue-team / purple-team projects in the cybersecurity community  
+- Pass **Cisco Certified Network Associate** (CCNA)
+- Set up first home **SIEM** lab (Wazuh, Microsoft Sentinel and Splunk)  
+- Gain practical **SOC** analyst skills (log analysis, incident response & documentation, threat detection)  
+- Eventually contribute to **blue-team / purple-team** projects in the cybersecurity community  
 
 I believe in **SOC**, **continuous documentation**, and **strong defense-in-depth**.  
 Everything I do is in controlled lab environments, never on unauthorized systems.
@@ -112,19 +112,14 @@ This list reflects hands-on lab experience, including wireless security testing,
 | GitHub    | Platform for code and documentation          | Publishing labs and maintaining portfolio                  | https://github.com/                  |
 | Notion    | Note-taking and organization tool            | Tracking progress and documenting learning                 | https://www.notion.so/               |
 | Anki      | Flashcard application for memory retention   | Practicing commands, ports, and concepts                   | https://apps.ankiweb.net/            |
-
-
-### 6. Tools I Am Starting to Use  
-
-| Tool      | What It Is                             | My Current or Planned Use                          | Link                                             |
-| --------- | -------------------------------------- | -------------------------------------------------- | ------------------------------------------------ |
 | TryHackMe | Online cybersecurity training platform | Working through Pre Security and SOC Level 1 paths | [https://tryhackme.com/](https://tryhackme.com/) |
-| Wazuh     | Open-source SIEM platform              | Planning home lab for log monitoring and detection | [https://wazuh.com/](https://wazuh.com/)         |
+| Wazuh     | Open-source SIEM platform              | Planning home lab for log monitoring and detection | [https://wazuh.com/](https://wazuh.com/)         
+
 
 ## Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Aircrack--ng-000000?&style=for-the-badge&logo=linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Aircrack--ng-557C94?&style=for-the-badge&logo=linux&logoColor=white" />
     <img src="https://img.shields.io/badge/-TryHackMe-000000?&style=for-the-badge&logo=tryhackme&logoColor=#00FF9F" />
 </div>
 
@@ -139,33 +134,10 @@ This list reflects hands-on lab experience, including wireless security testing,
 ## SIEM
 <div>
     <img src="https://img.shields.io/badge/-Wazuh-00A4EF?&style=for-the-badge&logo=wazuh&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=elastic&logoColor=white" />
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk-FFD700?&style=for-the-badge&logo=tryhackme&logoColor=#00FF9F" />
     <img src="https://img.shields.io/badge/-TryHackMe_SOC_Level_1-000000?&style=for-the-badge&logo=tryhackme&logoColor=#00FF9F" />
 </div>
-
-## Certifications & Badges
-
-All my Cisco Networking Academy badges and other achievements are verified on Credly:
-
-**My Current Achievements (March 2026):**
-- **Diploma in Computer Science** – New Life College, Ghana  
-- **Cisco Networking Academy Badges** (all completed & verified on Credly):  
-  - Introduction to Cybersecurity  
-  - Endpoint Security  
-  - Networking Basics  
-  - Networking Devices and Initial Configuration  
-
-Full verification and details:  
- <div style="display: flex; flex-wrap: wrap; gap: 10px; margin: 15px 0;">
-<a href="https://www.credly.com/users/mohammed-rashad-abdallah/badges#credly" target="_blank">
-    <img src="https://img.shields.io/badge/View_All_My_Badges_on_Credly-007ACC?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Profile" />
-    </a>
-</div>
-
-#
-
-These are the foundations I'm building on as I prepare for CompTIA Security+ and more advanced certifications.
 
 #
 
