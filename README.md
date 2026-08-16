@@ -68,7 +68,9 @@ The table below shows what I have completed, what I am actively working on, and 
 | Nmap reconnaissance and basic vulnerability discovery lab | Nmap scanning with service version detection and vulnerability lookup using searchsploit | Completed. Performed host discovery, port scanning, service enumeration, version detection, and mapped services to known vulnerabilities |
 | Bash Scripting | Bash Authentication System Lab | Completed successfully using Nano text editor kali linux |
 | Phishing attack | Phishing attack lab | Completed successfully using zphisher on kali linux |
-| Incident Investigation Report | Microsoft XDR lab | Completed successfully using Microsoft sentinel |
+| Incident Investigation Report | Microsoft XDR lab | Completed successfully using Microsoft sentinel Mittre Att&ck and OSINT |
+| Incident Investigation Report | Splunk lab | Completed successfully using Splunk, Mittre Att&ck and OSINT |
+| Malware Analysist | Windows | Completed successfully using PEStudio, process monitor, Regshot, autorun, Capa, die, Fakenet, and wireshark |
 
 
 ## Tools I Use in My Cybersecurity Journey  
@@ -92,9 +94,20 @@ This list reflects hands-on lab experience, including wireless security testing,
 | Sysinternals Suite           | Collection of advanced Windows utilities for troubleshooting, monitoring, and system analysis.                                        | Used to investigate processes, services, autoruns, registry activity, and system behavior.            | https://learn.microsoft.com/sysinternals                                        |
 | Nmap                         | Network discovery and security auditing tool.                                                                                         | Used for host discovery, service enumeration, and network reconnaissance in lab environments.         | https://nmap.org                                                                |
 | Git & GitHub                 | Version control system and collaborative development platform.                                                                        | Used to document projects, manage code, and maintain a cybersecurity learning portfolio.              | https://github.com                                                              |
+### 2. Malware Analysist
 
+| Tool | What It Does | My Current Use | Link or Command |
+|------|-----------------------------------------------|-----------------------------------------------------|----------------------------------------------|
+| PEStudio | Static analysis of PE files for suspicious indicators | Initial triage of Windows malware samples | https://www.winitor.com/ |
+| Process Monitor | Real-time monitoring of file, registry, and process activity | Observing malware behavior during dynamic analysis | Sysinternals: Procmon.exe |
+| Regshot | Takes before/after snapshots of the Windows registry | Detecting registry changes made by malware | https://sourceforge.net/projects/regshot/ |
+| Autoruns | Displays all auto-start locations and persistence mechanisms | Identifying malware persistence techniques | Sysinternals: Autoruns.exe |
+| capa | Detects capabilities and behaviors in executable files | Mapping malware functionality using rules | https://github.com/mandiant/capa |
+| DIE (Detect It Easy) | Identifies packers, compilers, protectors, and cryptors | Determining how a sample is packed or protected | https://github.com/horsicq/Detect-It-Easy |
+| FakeNet-NG | Network simulation tool that fakes internet services | Capturing malware network traffic in a controlled environment | https://github.com/mandiant/flare-fakenet-ng |
+| Wireshark | Deep packet inspection and network traffic analysis | Analyzing malware C2 communications and protocols | https://www.wireshark.org/download.html |
 
-### 2. Wireless Security and Packet Capture  
+### 3. Wireless Security and Packet Capture  
 
 | Tool        | What It Does                                      | My Current Use                                      | Link or Command                              |
 |-------------|---------------------------------------------------|-----------------------------------------------------|----------------------------------------------|
@@ -105,13 +118,13 @@ This list reflects hands-on lab experience, including wireless security testing,
 | Wireshark   | Packet analysis tool for deep inspection          | Analyzing EAPOL handshake and traffic               | https://www.wireshark.org/download.html      |
 | Mdk4        | Wireless testing tool for stress and simulation   | Testing wireless behavior in controlled lab         | Built-in Kali                                |
 
-### 3. Wordlists for Cracking  
+### 4. Wordlists for Cracking  
 
 | Tool or File | Description                                   | My Use                                | Location or Link                |
 |--------------|-----------------------------------------------|--------------------------------------|---------------------------------|
 | rockyou.txt  | Common password list with millions of entries | Testing weak passwords in lab setups | /usr/share/wordlists/rockyou.txt |
 
-### 4. Recon and OSINT Tools  
+### 5. Recon and OSINT Tools  
 
 | Tool                     | What It Does                                                                                           | My Status                                                                           | Official Link                                                                                                                                                              |
 | ------------------------ | ------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -129,7 +142,7 @@ This list reflects hands-on lab experience, including wireless security testing,
 | Cisco Talos Intelligence | Threat intelligence platform providing domain, IP, and reputation information.                         | Used for IOC validation and infrastructure analysis.                                | [https://talosintelligence.com/](https://talosintelligence.com/)                                                                                                           |
 | Any.Run                  | Interactive malware sandbox for dynamic analysis of suspicious files and URLs.                         | Learning malware behavior analysis and threat investigation workflows.              | [https://any.run/](https://any.run/)                                                                                                                                       |
 
-### 5. Learning and Documentation Tools  
+### 6. Learning and Documentation Tools  
 
 | Tool      | What It Is                                   | My Use                                                     | Link                                 |
 |-----------|----------------------------------------------|------------------------------------------------------------|--------------------------------------|
@@ -157,7 +170,7 @@ This list reflects hands-on lab experience, including wireless security testing,
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-FFD700?&style=for-the-badge&logo=tryhackme&logoColor=#00FF9F" />
-    <img src="https://img.shields.io/badge/-TryHackMe_SOC_Level_1-000000?&style=for-the-badge&logo=tryhackme&logoColor=#00FF9F" />
+    <img src="https://img.shields.io/badge/-Wazuh-000000?style=for-the-badge&logoColor=#00FF9F" />
 </div>
 
 #
@@ -167,4 +180,5 @@ This list reflects hands-on lab experience, including wireless security testing,
 -  <a href="https://github.com/Rashad635/nmap-reconnaissance-and-basic-vulnerability-discovery-lab/tree/main/README.md">Nmap reconnaissance and basic vulnerability discovery lab</a>
 -  <a href="https://github.com/Rashad635/Phishing-attack-using-Zphisher/blob/main/README.md">Phishing attack lab</a>
 -  <a href="https://github.com/Rashad635/Bash-Authentication-System-Lab/blob/main/README.md">Bash Authentication System Lab</a>
--  <a href="https://github.com/Rashad635/Incident-Investigation-Report/blob/main/README.md">Incident Investigation Report</a>
+-  <a href="https://github.com/Rashad635/Incident-Investigation-Report/blob/main/README.md">Incident Investigation Report: Identity - Potential Credential Stuffing </a>
+-  <a href="https://github.com/Rashad635/Malware-Analysis-Report-BYOVD-Process-Injection-Cryptojacking-Stager">Malware (WindowsService[.]exe) Analysis Report</a>
