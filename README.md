@@ -8,6 +8,7 @@ My goal is to grow into a SOC analyst role, contribute to strengthening security
 
 ## What I've achieved so far
 - **Diploma in Computer Science** – New Life College, Ghana
+- **CompTIA Security+ ce Certification** - CompTIA
 - **Full Cybersecurity course From 0. Ethical Hacking & Defense** - Udemy 
 - **Cisco Networking Academy Badges** (verified on [Credly](https://www.credly.com/users/mohammed-rashad-abdallah/badges#credly)):  
   - Introduction to Cybersecurity  
@@ -25,18 +26,15 @@ My goal is to grow into a SOC analyst role, contribute to strengthening security
 
 ## Current focus & hands-on labs
 - Actively using **Kali Linux** in VMware for labs:  
-- TryHackMe (Pre Security path → SOC)
-- Cisco Certified Network Associate (CCNA) Course
-- CompTIA Security+ Course
-- MYDFIR Forge (90 days SOC Accelerator Course)
+- CompTIA Security+ Course (Accomplished)
+- MYDFIR Forge (90 days SOC Accelerator Course) (Accomplished)
 - Wireshark Master Class (Chris Greer)
 - Building a public portfolio on GitHub with weekly write-ups, screenshots, and Anki flashcards for retention  
 
 ## My Goals
-- Pass **CompTIA Security+** (SY0-701)
-- Pass **Cisco Certified Network Associate** (CCNA)
-- Set up first home **SIEM** lab (Wazuh, Microsoft Sentinel and Splunk)  
-- Gain practical **SOC** analyst skills (log analysis, incident response & documentation, threat detection)  
+- Pass **CompTIA Security+** (SY0-701) (Accomplished)
+- Set up first home **SIEM** lab (Wazuh, Microsoft Sentinel and Splunk) (Accomplished)  
+- Gain practical **SOC** analyst skills (log analysis, incident response & documentation, threat detection)  (Practically involve)
 - Eventually contribute to **blue-team** projects in the cybersecurity community  
 
 I believe in **SOC**, **continuous documentation**, and **strong defense-in-depth**.  
