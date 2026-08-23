@@ -181,3 +181,4 @@ This list reflects hands-on lab experience, including wireless security testing,
 -  <a href="https://github.com/Rashad635/Incident-Investigation-Report/blob/main/README.md">Incident Investigation Report: Identity - Potential Credential Stuffing </a>
 -  <a href="https://github.com/Rashad635/Malware-Analysis-Report-BYOVD-Process-Injection-Cryptojacking-Stager">Malware (WindowsService[.]exe) Analysis Report</a>
 -  <a href="https://github.com/Rashad635/Incident-Investigation-Report-Suspicious-activity-on-three-endpoints">Incident Investigation Report: Suspicious activity on three endpoints</a>
+-  <a href="https://github.com/Rashad635/Incident-Investigation-Report-Haldric-Domain-Compromise-Data-Exfiltration">Incident Investigation Report: Haldric-Domain-Compromise-Data-Exfiltration</a>
