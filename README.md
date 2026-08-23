@@ -9,6 +9,7 @@ My goal is to grow into a SOC analyst role, contribute to strengthening security
 ## What I've achieved so far
 - **Diploma in Computer Science** – New Life College, Ghana
 - **CompTIA Security+ ce Certification** - CompTIA
+- **90 days SOC Accelerator** - MYDFIR Forge Community
 - **Full Cybersecurity course From 0. Ethical Hacking & Defense** - Udemy 
 - **Cisco Networking Academy Badges** (verified on [Credly](https://www.credly.com/users/mohammed-rashad-abdallah/badges#credly)):  
   - Introduction to Cybersecurity  
@@ -25,17 +26,21 @@ My goal is to grow into a SOC analyst role, contribute to strengthening security
   
 
 ## Current focus & hands-on labs
-- Actively using **Kali Linux** in VMware for labs:  
-- CompTIA Security+ Course (Accomplished)
-- MYDFIR Forge (90 days SOC Accelerator Course) (Accomplished)
 - Wireshark Master Class (Chris Greer)
-- Building a public portfolio on GitHub with weekly write-ups, screenshots, and Anki flashcards for retention  
+- Building a public portfolio on GitHub with weekly write-ups, screenshots, and Anki flashcards for retention
+- Wazuh SIEM lab setup
+- Active Directory, stimulated attacks and investigations
+- DFIR Course - MYDFIR Forge Community
 
 ## My Goals
-- Pass **CompTIA Security+** (SY0-701) (Accomplished)
-- Set up first home **SIEM** lab (Wazuh, Microsoft Sentinel and Splunk) (Accomplished)  
-- Gain practical **SOC** analyst skills (log analysis, incident response & documentation, threat detection)  (Practically involve)
-- Eventually contribute to **blue-team** projects in the cybersecurity community  
+
+- [x] Pass **CompTIA Security+** (SY0-701) - Accomplished
+- [x] Complete **90 days SOC Accelerator** - Accomplished
+- [x] Complete **Cisco Networking Academy Cybersecurity related courses** - Accomplished
+- [ ] Set up and maintain my first **SIEM** lab using **Wazuh, Microsoft Sentinel, and Splunk** - Actively involved
+- [ ] Develop practical **SOC Analyst** skills in log analysis, incident response, documentation, and threat detection - Actively involved
+- [ ] Continue building hands-on labs and completing **CTFs** to strengthen practical cybersecurity skills
+- [ ] Eventually contribute to **Blue Team** projects within the cybersecurity community  
 
 I believe in **SOC**, **continuous documentation**, and **strong defense-in-depth**.  
 Everything I do is in controlled lab environments, never on unauthorized systems.
