@@ -9,7 +9,7 @@ My goal is to grow into a SOC analyst role, contribute to strengthening security
 ## What I've achieved so far
 - **Diploma in Computer Science** – New Life College, Ghana
 - **CompTIA Security+ ce Certification** - CompTIA
-- **90 days SOC Accelerator** - MYDFIR Forge Community
+- **90 days SOC Accelerator course** - MYDFIR Forge Community
 - **Full Cybersecurity course From 0. Ethical Hacking & Defense** - Udemy 
 - **Cisco Networking Academy Badges** (verified on [Credly](https://www.credly.com/users/mohammed-rashad-abdallah/badges#credly)):  
   - Introduction to Cybersecurity  
@@ -35,13 +35,14 @@ My goal is to grow into a SOC analyst role, contribute to strengthening security
 ## My Goals
 
 - [x] Pass **CompTIA Security+** (SY0-701) - Accomplished
-- [x] Complete **90 days SOC Accelerator** - Accomplished
+- [x] Complete **90 days SOC Accelerator course** - Accomplished
 - [x] Complete **Cisco Networking Academy Cybersecurity related courses** - Accomplished
 - [x] Complete **Full Cybersecurity course From 0. Ethical Hacking & Defense** - Accomplished
+- [ ] Complete **DFIR Course** - MYDFIR Forge Community - Progress
 - [ ] Set up and maintain my first **SIEM** lab using **Wazuh, Microsoft Sentinel, and Splunk** - Actively involved
 - [ ] Develop practical **SOC Analyst** skills in log analysis, incident response, documentation, and threat detection - Actively involved
-- [ ] Continue building hands-on labs and completing **CTFs** to strengthen practical cybersecurity skills
-- [ ] Eventually contribute to **Blue Team** projects within the cybersecurity community  
+- [ ] Continue building hands-on labs and completing **CTFs** to strengthen practical cybersecurity skills - Actively involved
+- [ ] Eventually contribute to **Blue Team** projects within the cybersecurity community - Awaiting
 
 I believe in **SOC**, **continuous documentation**, and **strong defense-in-depth**.  
 Everything I do is in controlled lab environments, never on unauthorized systems.
