@@ -37,6 +37,7 @@ My goal is to grow into a SOC analyst role, contribute to strengthening security
 - [x] Pass **CompTIA Security+** (SY0-701) - Accomplished
 - [x] Complete **90 days SOC Accelerator** - Accomplished
 - [x] Complete **Cisco Networking Academy Cybersecurity related courses** - Accomplished
+- [x] Complete **Full Cybersecurity course From 0. Ethical Hacking & Defense** - Accomplished
 - [ ] Set up and maintain my first **SIEM** lab using **Wazuh, Microsoft Sentinel, and Splunk** - Actively involved
 - [ ] Develop practical **SOC Analyst** skills in log analysis, incident response, documentation, and threat detection - Actively involved
 - [ ] Continue building hands-on labs and completing **CTFs** to strengthen practical cybersecurity skills
