@@ -180,7 +180,7 @@ This list reflects hands-on lab experience, including wireless security testing,
 -  <a href="https://github.com/Rashad635/WiFi-Attack-Lab/blob/main/README.md">WiFi attack lab</a>
 -  <a href="https://github.com/Rashad635/nmap-reconnaissance-and-basic-vulnerability-discovery-lab/tree/main/README.md">Nmap reconnaissance and basic vulnerability discovery lab</a>
 -  <a href="https://github.com/Rashad635/Phishing-attack-using-Zphisher/blob/main/README.md">Phishing attack lab</a>
--  <a href="https://github.com/Rashad635/Bash-Authentication-System-Lab/blob/main/README.md">Bash Authentication System Lab</a>
+-  <a href="https://github.com/Rashad635/Bash-Authentication-System-Lab/blob/main/README.md">Bash Scripting: Authentication System Lab</a>
 -  <a href="https://github.com/Rashad635/Incident-Investigation-Report/blob/main/README.md">Incident Investigation Report: Identity - Potential Credential Stuffing </a>
 -  <a href="https://github.com/Rashad635/Malware-Analysis-Report-BYOVD-Process-Injection-Cryptojacking-Stager">Malware (WindowsService[.]exe) Analysis Report</a>
 -  <a href="https://github.com/Rashad635/Incident-Investigation-Report-Suspicious-activity-on-three-endpoints">Incident Investigation Report: Suspicious activity on three endpoints</a>
