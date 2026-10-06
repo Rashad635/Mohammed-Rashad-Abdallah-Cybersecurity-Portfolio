@@ -4,7 +4,7 @@
 
 IT support personnel transitioning into cybersecurity with a focus on understanding how systems are attacked, detected, and secured in real environments. I am building practical skills across defensive and offensive areas through consistent hands on work and structured learning.
 
-My goal is to grow into a SOC analyst role, contribute to strengthening security, improving detection, and supporting resilient systems, and later expand into offensive security.
+My goal is to grow into a SOC analyst role (Incident Response), contribute to strengthening security, improving detection, and supporting resilient systems, and later expand into offensive security.
 
 ## What I've achieved so far
 - **Diploma in Computer Science** – New Life College, Ghana
@@ -34,10 +34,6 @@ My goal is to grow into a SOC analyst role, contribute to strengthening security
 
 ## My Goals
 
-- [x] Pass **CompTIA Security+** (SY0-701) - Accomplished
-- [x] Complete **90 days SOC Accelerator course** - Accomplished
-- [x] Complete **Cisco Networking Academy Cybersecurity related courses** - Accomplished
-- [x] Complete **Full Cybersecurity course From 0. Ethical Hacking & Defense** - Accomplished
 - [ ] Complete **DFIR Course** - MYDFIR Forge Community - Progress
 - [ ] Set up and maintain my first **SIEM** lab using **Wazuh, Microsoft Sentinel, and Splunk** - Actively involved
 - [ ] Develop practical **SOC Analyst** skills in log analysis, incident response, documentation, and threat detection - Actively involved
@@ -189,3 +185,8 @@ This list reflects hands-on lab experience, including wireless security testing,
 -  <a href="https://github.com/Rashad635/Malware-Analysis-Report-BYOVD-Process-Injection-Cryptojacking-Stager">Malware (WindowsService[.]exe) Analysis Report</a>
 -  <a href="https://github.com/Rashad635/Incident-Investigation-Report-Suspicious-activity-on-three-endpoints">Incident Investigation Report: Suspicious activity on three endpoints</a>
 -  <a href="https://github.com/Rashad635/Incident-Investigation-Report-Haldric-Domain-Compromise-Data-Exfiltration">Incident Investigation Report: Haldric-Domain-Compromise-Data-Exfiltration</a>
+-  <a href="https://github.com/Rashad635/AD-Splunk-Wazuh-SOAR-Enterprise-Security-Lab">AD + Splunk + Wazuh + SOAR Enterprise Security Lab</a>
+-  <a href="https://github.com/Rashad635/Email-Investigation-Report-Duolingo-Impersonation">Email Investigation Report: Duolingo Impersonation</a>
+
+
+
