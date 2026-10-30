@@ -187,6 +187,7 @@ This list reflects hands-on lab experience, including wireless security testing,
 -  <a href="https://github.com/Rashad635/Incident-Investigation-Report-Haldric-Domain-Compromise-Data-Exfiltration">Incident Investigation Report: Haldric-Domain-Compromise-Data-Exfiltration</a>
 -  <a href="https://github.com/Rashad635/AD-Splunk-Wazuh-SOAR-Enterprise-Security-Lab">AD + Splunk + Wazuh + SOAR Enterprise Security Lab</a>
 -  <a href="https://github.com/Rashad635/Email-Investigation-Report-Duolingo-Impersonation">Email Investigation Report: Duolingo Impersonation</a>
+-  <a href="https://github.com/Rashad635/Potential-brute-force-activity-and-suspicious-administrator">Potential brute-force activity and suspicious administrator logon</a>
 
 
 
