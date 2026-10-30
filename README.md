@@ -2,15 +2,15 @@
 
 **Aspiring Cybersecurity Analyst**, UAE
 
-IT support personnel transitioning into cybersecurity with a focus on understanding how systems are attacked, detected, and secured in real environments. I am building practical skills across defensive and offensive areas through consistent hands on work and structured learning.
+IT support personnel transitioning into cybersecurity with a focus on understanding how systems are attacked, detected, and secured in real environments. I am building practical skills across defensive and offensive areas through consistent hands-on work and structured learning.
 
 My goal is to grow into a SOC analyst role (Incident Response), contribute to strengthening security, improving detection, and supporting resilient systems, and later expand into offensive security.
 
 ## What I've achieved so far
 - **Diploma in Computer Science** – New Life College, Ghana
-- **CompTIA Security+ ce Certification** - CompTIA
-- **90 days SOC Accelerator course** - MYDFIR Forge Community
-- **Full Cybersecurity course From 0. Ethical Hacking & Defense** - Udemy 
+- **CompTIA Security+ Certification** - CompTIA
+- **MYDFIR SOC Analyst Course** - MYDFIR Forge Community
+- **Full Cybersecurity course from 0. Ethical Hacking & Defense** - Udemy 
 - **Cisco Networking Academy Badges** (verified on [Credly](https://www.credly.com/users/mohammed-rashad-abdallah/badges#credly)):  
   - Introduction to Cybersecurity  
   - Endpoint Security
@@ -19,28 +19,39 @@ My goal is to grow into a SOC analyst role (Incident Response), contribute to st
   - Networking Devices and Initial Configuration
   - Network Addressing and Basic Troubleshooting
   - Network Defense
-  - Network Network Support and Security
-  - Nerwork Technician Career Path
+  - Network Support and Security
+  - Network Technician Career Path
   - Cyber Threat Management
   - Junior Cybersecurity Analyst Career Path Exam
+
+## Projects
+-  <a href="https://github.com/Rashad635/WiFi-Attack-Lab/blob/main/README.md">WiFi attack lab</a>
+-  <a href="https://github.com/Rashad635/nmap-reconnaissance-and-basic-vulnerability-discovery-lab/tree/main/README.md">Nmap reconnaissance and basic vulnerability discovery lab</a>
+-  <a href="https://github.com/Rashad635/Phishing-attack-using-Zphisher/blob/main/README.md">Phishing attack lab</a>
+-  <a href="https://github.com/Rashad635/Bash-Authentication-System-Lab/blob/main/README.md">Bash Scripting: Authentication System Lab</a>
+-  <a href="https://github.com/Rashad635/Incident-Investigation-Report/blob/main/README.md">Incident Investigation Report: Identity - Potential Credential Stuffing </a>
+-  <a href="https://github.com/Rashad635/Malware-Analysis-Report-BYOVD-Process-Injection-Cryptojacking-Stager">Malware Analysis Report</a>
+-  <a href="https://github.com/Rashad635/Incident-Investigation-Report-Suspicious-activity-on-three-endpoints">Incident Investigation Report: Suspicious activity on three endpoints</a>
+-  <a href="https://github.com/Rashad635/Incident-Investigation-Report-Haldric-Domain-Compromise-Data-Exfiltration">Incident Investigation Report: Haldric-Domain-Compromise-Data-Exfiltration</a>
+-  <a href="https://github.com/Rashad635/AD-Splunk-Wazuh-SOAR-Enterprise-Security-Lab">AD + Splunk + Wazuh + SOAR Enterprise Security Lab</a>
+-  <a href="https://github.com/Rashad635/Email-Investigation-Report-Duolingo-Impersonation">Email Investigation Report: Duolingo Impersonation</a>
+-  <a href="https://github.com/Rashad635/Potential-brute-force-activity-and-suspicious-administrator-logon/tree/main">Incident Investigation Report: Potential brute-force activity and suspicious administrator logon</a>
   
 
 ## Current focus & hands-on labs
 - Wireshark Master Class (Chris Greer)
 - Building a public portfolio on GitHub with weekly write-ups, screenshots, and Anki flashcards for retention
-- Wazuh SIEM lab setup
-- Active Directory, stimulated attacks and investigations
+- Wazuh and Splunk SIEM lab setup
+- Active Directory, simulated attacks and investigations
 - DFIR Course - MYDFIR Forge Community
 
 ## My Goals
 
-- [ ] Complete **DFIR Course** - MYDFIR Forge Community - Progress
-- [ ] Set up and maintain my first **SIEM** lab using **Wazuh, Microsoft Sentinel, and Splunk** - Actively involved
-- [ ] Develop practical **SOC Analyst** skills in log analysis, incident response, documentation, and threat detection - Actively involved
-- [ ] Continue building hands-on labs and completing **CTFs** to strengthen practical cybersecurity skills - Actively involved
-- [ ] Eventually contribute to **Blue Team** projects within the cybersecurity community - Awaiting
+- Develop practical **SOC Analyst** skills in log analysis, incident response, threat detection, and documentation
+- Continue building hands-on labs and completing **CTFs** to strengthen practical cybersecurity skills 
+- Eventually contribute to **Blue Team** projects within the cybersecurity community
 
-I believe in **SOC**, **continuous documentation**, and **strong defense-in-depth**.  
+I believe in **SOC**, **strong defense-in-depth**, and **continuous documentation.**
 Everything I do is in controlled lab environments, never on unauthorized systems.
 
 Feel free to check my:
@@ -50,7 +61,7 @@ Feel free to check my:
   <img src="https://img.shields.io/badge/-Credly%20Badges-orange?&style=for-the-badge&logo=credly&logoColor=white" />
 </a> 
 
-Open to connect, feedback, or collaboration! 
+Open to connecting, feedback, or collaboration! 
 
 
 ## Current Skills and Hands-On Projects
@@ -71,7 +82,7 @@ The table below shows what I have completed, what I am actively working on, and 
 | Phishing attack | Phishing attack lab | Completed successfully using zphisher on kali linux |
 | Incident Investigation Report | Microsoft XDR lab | Completed successfully using Microsoft sentinel Mittre Att&ck and OSINT |
 | Incident Investigation Report | Splunk lab | Completed successfully using Splunk, Mittre Att&ck and OSINT |
-| Malware Analysist | Windows | Completed successfully using PEStudio, process monitor, Regshot, autorun, Capa, die, Fakenet, and wireshark |
+| Malware Analyst | Windows | Completed successfully using PEStudio, Process Monitor, Regshot, Autorun, Capa, DIE, Fakenet, and Wireshark |
 
 
 ## Tools I Use in My Cybersecurity Journey  
@@ -174,20 +185,6 @@ This list reflects hands-on lab experience, including wireless security testing,
     <img src="https://img.shields.io/badge/-Wazuh-000000?style=for-the-badge&logoColor=#00FF9F" />
 </div>
 
-#
-
-## Projects
--  <a href="https://github.com/Rashad635/WiFi-Attack-Lab/blob/main/README.md">WiFi attack lab</a>
--  <a href="https://github.com/Rashad635/nmap-reconnaissance-and-basic-vulnerability-discovery-lab/tree/main/README.md">Nmap reconnaissance and basic vulnerability discovery lab</a>
--  <a href="https://github.com/Rashad635/Phishing-attack-using-Zphisher/blob/main/README.md">Phishing attack lab</a>
--  <a href="https://github.com/Rashad635/Bash-Authentication-System-Lab/blob/main/README.md">Bash Scripting: Authentication System Lab</a>
--  <a href="https://github.com/Rashad635/Incident-Investigation-Report/blob/main/README.md">Incident Investigation Report: Identity - Potential Credential Stuffing </a>
--  <a href="https://github.com/Rashad635/Malware-Analysis-Report-BYOVD-Process-Injection-Cryptojacking-Stager">Malware (WindowsService[.]exe) Analysis Report</a>
--  <a href="https://github.com/Rashad635/Incident-Investigation-Report-Suspicious-activity-on-three-endpoints">Incident Investigation Report: Suspicious activity on three endpoints</a>
--  <a href="https://github.com/Rashad635/Incident-Investigation-Report-Haldric-Domain-Compromise-Data-Exfiltration">Incident Investigation Report: Haldric-Domain-Compromise-Data-Exfiltration</a>
--  <a href="https://github.com/Rashad635/AD-Splunk-Wazuh-SOAR-Enterprise-Security-Lab">AD + Splunk + Wazuh + SOAR Enterprise Security Lab</a>
--  <a href="https://github.com/Rashad635/Email-Investigation-Report-Duolingo-Impersonation">Email Investigation Report: Duolingo Impersonation</a>
--  <a href="https://github.com/Rashad635/Potential-brute-force-activity-and-suspicious-administrator-logon/tree/main">Potential brute-force activity and suspicious administrator logon</a>
 
 
 
