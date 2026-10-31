@@ -35,7 +35,7 @@ My goal is to grow into a SOC analyst role (Incident Response), contribute to st
 -  <a href="https://github.com/Rashad635/Incident-Investigation-Report-Haldric-Domain-Compromise-Data-Exfiltration">Incident Investigation Report: Haldric-Domain-Compromise-Data-Exfiltration</a>
 -  <a href="https://github.com/Rashad635/AD-Splunk-Wazuh-SOAR-Enterprise-Security-Lab">AD + Splunk + Wazuh + SOAR Enterprise Security Lab</a>
 -  <a href="https://github.com/Rashad635/Email-Investigation-Report-Duolingo-Impersonation">Email Investigation Report: Duolingo Impersonation</a>
--  <a href="https://github.com/Rashad635/Multiple-Source-Failed-Logons-and-Suspicious-Administrator-Authentication">Multiple-Source Failed Logons and Suspicious Administrator Authentication</a>
+-  <a href="https://github.com/Rashad635/Multiple-Source-Failed-Logons-and-Suspicious-Administrator-Authentication">Investigation Report: Multiple-Source Failed Logons and Suspicious Administrator Authentication</a>
   
 
 ## Current focus & hands-on labs
